@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss version="2.0">
+<rss xmlns:ev="http://purl.org/rss/1.0/modules/event/" version="2.0">
   <channel>
     <title>Raleigh NC Parks and Recreation News</title>
     <link>https://raleighnc.gov/news?department=All&amp;service=41</link>
     <description>Latest news from Raleigh Parks and Recreation</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 4 Oct 2026 23:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Oct 2026 10:18:24 GMT</lastBuildDate>
     <item>
       <title>raleighnc.gov (Oct 2, 2026)</title>
       <link>https://raleighnc.gov/parks-and-recreation/news/monster-mash-paddle-bash</link>
