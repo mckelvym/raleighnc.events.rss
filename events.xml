@@ -5,7 +5,7 @@
     <link>https://raleighnc.gov/news?department=All&amp;service=41</link>
     <description>Latest news from Raleigh Parks and Recreation</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:16:08 GMT</lastBuildDate>
     <item>
       <title>Forest Ridge Park After Dark (2026-10-19)</title>
       <link>https://raleighnc.gov/parks-and-recreation/news/forest-ridge-park-after-dark</link>
@@ -101,22 +101,6 @@
       <ev:startdate>2026-10-13</ev:startdate>
       <pubDate>Tue, 13 Oct 2026 18:16:22 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/dogs.png?h=854a7be2&amp;itok=Rx36eI9z"/>
-    </item>
-    <item>
-      <title>CSI: The Mystery of the Disappearing Deer (2026-10-12)</title>
-      <link>https://raleighnc.gov/parks-and-recreation/news/csi-mystery-disappearing-deer</link>
-      <guid isPermaLink="true">https://raleighnc.gov/parks-and-recreation/news/csi-mystery-disappearing-deer</guid>
-      <ev:startdate>2026-10-12</ev:startdate>
-      <pubDate>Mon, 12 Oct 2026 21:16:14 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/deer-mystery.jpg?h=8d2d4c52&amp;itok=a7oNIjHn"/>
-    </item>
-    <item>
-      <title>Jewish History Trolley Tour (2026-10-12)</title>
-      <link>https://raleighnc.gov/parks-and-recreation/news/jewish-history-trolley-tour</link>
-      <guid isPermaLink="true">https://raleighnc.gov/parks-and-recreation/news/jewish-history-trolley-tour</guid>
-      <ev:startdate>2026-10-12</ev:startdate>
-      <pubDate>Mon, 12 Oct 2026 21:16:14 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/trolley-mordecai-house.jpg?h=3338efee&amp;itok=pWVqZ2Bt"/>
     </item>
   </channel>
 </rss>
