@@ -5,7 +5,15 @@
     <link>https://raleighnc.gov/news?department=All&amp;service=41</link>
     <description>Latest news from Raleigh Parks and Recreation</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 5 Nov 2026 22:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 6 Nov 2026 00:16:17 GMT</lastBuildDate>
+    <item>
+      <title>Holiday Open House (2026-11-05)</title>
+      <link>https://raleighnc.gov/parks-and-recreation/news/holiday-open-house</link>
+      <guid isPermaLink="true">https://raleighnc.gov/parks-and-recreation/news/holiday-open-house</guid>
+      <ev:startdate>2026-11-05</ev:startdate>
+      <pubDate>Fri, 6 Nov 2026 00:16:17 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-11/mordecai-open-house.jpg?h=44b879e5&amp;itok=nNtlOZzF"/>
+    </item>
     <item>
       <title>Pullen Park Unveils 2026’s Limited Edition Holiday Express Ornament (2026-11-05)</title>
       <link>https://raleighnc.gov/parks-and-recreation/news/pullen-park-unveils-2026s-limited-edition-holiday-express-ornament</link>
@@ -53,30 +61,6 @@
       <ev:startdate>2026-10-30</ev:startdate>
       <pubDate>Fri, 30 Oct 2026 18:16:09 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-08/walking-program.jpg?h=42ab2369&amp;itok=W-3T0rLy"/>
-    </item>
-    <item>
-      <title>Raleigh Teen Connect: Bases Loaded Home Run Derby (2026-10-29)</title>
-      <link>https://raleighnc.gov/parks-and-recreation/news/raleigh-teen-connect-bases-loaded-home-run-derby</link>
-      <guid isPermaLink="true">https://raleighnc.gov/parks-and-recreation/news/raleigh-teen-connect-bases-loaded-home-run-derby</guid>
-      <ev:startdate>2026-10-29</ev:startdate>
-      <pubDate>Thu, 29 Oct 2026 21:16:17 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/teen-connect-derby.png?h=854a7be2&amp;itok=8EvHluVX"/>
-    </item>
-    <item>
-      <title>New Podcast Episode: How has Raleigh's Greenway System Changed Over the Past 50 Years? (2026-10-29)</title>
-      <link>https://raleighnc.gov/engage-city/news/new-podcast-episode-how-has-raleighs-greenway-system-changed-over-past-50-years</link>
-      <guid isPermaLink="true">https://raleighnc.gov/engage-city/news/new-podcast-episode-how-has-raleighs-greenway-system-changed-over-past-50-years</guid>
-      <ev:startdate>2026-10-29</ev:startdate>
-      <pubDate>Thu, 29 Oct 2026 18:16:31 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/podcast-greenway-50.jpg?h=a05630a4&amp;itok=McSca6xf"/>
-    </item>
-    <item>
-      <title>Discover Croatia &amp; Slovenia (2026-10-29)</title>
-      <link>https://raleighnc.gov/parks-and-recreation/news/discover-croatia-slovenia</link>
-      <guid isPermaLink="true">https://raleighnc.gov/parks-and-recreation/news/discover-croatia-slovenia</guid>
-      <ev:startdate>2026-10-29</ev:startdate>
-      <pubDate>Thu, 29 Oct 2026 18:16:31 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2026-10/active-adult-croatia.png?h=854a7be2&amp;itok=qVrNUsjv"/>
     </item>
   </channel>
 </rss>
